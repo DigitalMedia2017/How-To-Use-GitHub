@@ -1,0 +1,32 @@
+# Digtal Media 2017 Homework 3
+Name: Han Xinyou
+Student ID: 1751204
+Graduate School: Information Science
+
+### Make some GitHub entries in our repository! Remember the topic -- how can we use GitHub for research? We're building our own how-to!
+We could submit various files to a GitHub repository. Among them, the ordinary text files could be like this: formatted by **Markdown**.
+
+Following contents are from [Wikipedia](https://en.wikipedia.org/wiki/Markdown):
+> Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats using a tool by the same name. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. As the initial description of Markdown contained ambiguities and unanswered questions, many implementations and extensions of Markdown appeared over the years to answer these issues.
+
+### Write a paragraph about what you learned doing this?
+Here are some examples for how to use markdown.
+# title1
+## title2
+### title3
+ - bullet1
+    - bullet2
+ * another bullet
+
+*italic* and **bolded**
+
+[link_to_target](#link_to_target)
+
+link_to_target
+
+### table
+| title | contents |
+| ----- | ----- |
+| \ | escape character |
+
+For more information: google it!
